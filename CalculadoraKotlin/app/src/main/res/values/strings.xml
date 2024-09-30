@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraKotlin</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividr</string>
+    <string name="valor1">Digite o Primeiro Valor</string>
+    <string name="valor2">Digite o Segundo Valor</string>
+</resources>
